@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(
+        to right,
+        black,
+        darkblue,
+        blue,
+        purple,
+        rgb(143, 139, 139)
+
+    );
+}
+
+
+h1 {
+    color: aliceblue;
+    font-style: initial;
+    font-family: Geneva, Verdana, sans-serif;
+}
+
+p {
+    color: antiquewhite;
+    font-size: medium;
+    font-family: "Brush Script MT", cursive;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(210, 236, 227);
+    stroke: black;
+    stroke-opacity: inherit;
+}
+
+h3 {
+    color: azure;
+    font-size: small;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img {
+    min-height: auto;
+    min-width: auto;
+    min-height: 60;
+    background-size: cover;
+    background-blend-mode: darken;  
+        
+}
