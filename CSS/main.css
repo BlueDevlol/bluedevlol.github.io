@@ -67,6 +67,8 @@ h3 {
 }
 
 img {
+    background-repeat: no-repeat;
+    background-size: cover;
     min-height: auto;
     min-width: auto;
     min-height: 60;
