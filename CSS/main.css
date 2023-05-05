@@ -70,8 +70,8 @@ img {
     position: relative;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
-    min-width: 100vh;
+    min-height: 50vh;
+    min-width: 50vh;
     background-blend-mode: darken;  
         
 }
